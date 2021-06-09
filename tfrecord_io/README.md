@@ -29,5 +29,6 @@ this sample comes from public [build_imageNet_data.py](https://github.com/kmonac
 
 also good to learn about processing data in batch, multi-threads e.g. Coordinator, QueueRunner
 
+here using `ImageNet_tiny` as test data, in which folder includes one label class `n01440764`, which includes 1031 images.
 
 
